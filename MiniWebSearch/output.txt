@@ -1,0 +1,9 @@
+AND English Alphabet NOT British
+8|A|https://simple.wikipedia.org/wiki?curid=8
+66|Wikipedia:Basic English alphabetical wordlist  |https://simple.wikipedia.org/wiki?curid=66
+67|Wikipedia:Basic English international wordlist  |https://simple.wikipedia.org/wiki?curid=67
+
+OR australia panda
+27|Australia|https://simple.wikipedia.org/wiki?curid=27
+83|British English  |https://simple.wikipedia.org/wiki?curid=83
+

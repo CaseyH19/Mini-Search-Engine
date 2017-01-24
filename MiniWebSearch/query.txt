@@ -1,0 +1,5 @@
+2
+AND English Alphabet NOT British
+OR australia panda
+
+
